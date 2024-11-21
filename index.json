@@ -1,0 +1,74 @@
+[
+    {
+        "firstName": "Uzair",
+        "lastName": "Meyer",
+        "favHobby": "Gaming",
+        "criminal": "false",
+        "dreamCars": [
+            {
+                "carName": "Mitsubishi",
+                "engineCapacity": 2,
+                "model": "Lancer Evo 9"
+            },
+            {
+                "carName": "Toyota",
+                "engineCapacity": 1.4,
+                "model": "Supra"
+            }
+        ]
+    },
+    {
+        "firstName": "Mikaeel",
+        "lastName": "Sedick",
+        "favHobby": "Swimming",
+        "criminal": "True",
+        "dreamCars": [
+            {
+                "carName": "BMW",
+                "engineCapacity": 2,
+                "model": "M4"
+            },
+            {
+                "carName": "Audi",
+                "engineCapacity": 1.4,
+                "model": "S3"
+            }
+        ]
+    },
+    {
+        "firstName": "Abdul Bassit",
+        "lastName": "Felton",
+        "favHobby": "Rugby",
+        "criminal": "True",
+        "dreamCars": [
+            {
+                "carName": "Mercedes Benz",
+                "engineCapacity": 2,
+                "model": "AMG"
+            },
+            {
+                "carName": "Toyota",
+                "engineCapacity": 1.4,
+                "model": "fortuner"
+            }
+        ]
+    },
+    {
+        "firstName": "Moegamat Surur",
+        "lastName": "Samaai",
+        "favHobby": "Gaming",
+        "criminal": "True",
+        "dreamCars": [
+            {
+                "carName": "BMW",
+                "engineCapacity": 2,
+                "model": "X5"
+            },
+            {
+                "carName": "Toyota",
+                "engineCapacity": 1.4,
+                "model": "fortuner"
+            }
+        ]
+    }
+]
